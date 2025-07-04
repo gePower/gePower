@@ -1,10 +1,10 @@
 # Biography
 
-Hi, I'm Gerard, an Ivorian-Canadian fullstack developer living in Quebec City since 2012. I'm specialized in developing web applications. I'm currently working on Spotify's Backstage framework as an Internal Protail Developer for an insurance mutual.
+Hi, I'm Gerard, an Ivorian-Canadian fullstack developer living in Quebec City since 2012. I'm specialized in developing web applications. I'm currently working on Spotify's backstage framework as an Internal Protail Developer (IDP) for mutual insurance.
 
 I'm passionate about system design and always eager to learn new technologies.
 
-## Where to find me
+## 🔍 Where to find me
 [![linkedin](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6)](https://www.linkedin.com/in/https://www.linkedin.com/in/gerardseka)
 
 ## 🚀 Languages and Tools I Use
@@ -18,3 +18,28 @@ I'm passionate about system design and always eager to learn new technologies.
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gePower&)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=gePower&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔨 Projects
+
+### 2022 
+#### [Calmo – Health Record 🔗](https://calmo.gerardseka.com) 
+Web application for managing patient records with secure authentication, access control, and medical activity consultation.
+
+##### Use case
+The personas `macaron` and `stbakhita` were using the password `Passw0rd.`.
+
+Since macaron was appointed President of Cefran, his security clearance has been raised to a higher level than his doctor, stbakhita.
+As a result, stbakhita has no longer access to the information previously entered in macaron’s health record (see anonymized health record).
+
+
+
+### 2018 
+#### [Physics Challenge – REST API 🔗](https://physics-challenge.gerardseka.com/docs)
+Interactive REST API offering physics-based challenges. Successfully solving a problem returns a validation FLAG.
+
+
+
+### 2016 
+#### [Student Enterprise – Leadership & Community Impact 🔗](https://www.linkedin.com/posts/college-ahuntsic_bravo-%C3%A0-g%C3%A9rard-wilfried-seka-et-eug%C3%A9nie-branchard-activity-6144219928527466496-c9YW/)
+Student entrepreneurial project promoting hands-on learning through real community-based challenges.  
+Recipient of the *Lieutenant Governor’s Medal of Quebec*.
