@@ -1,11 +1,18 @@
 # Biography
 
-Hi, I'm Gerard, an Ivorian-Canadian fullstack developer living in Quebec City since 2012. I'm specialized in developing web applications. I'm currently working on Spotify's Backstage framework as an Internal Protail Developer for an insurance mutual.
+Hi, I'm Gerard, an Ivorian-Canadian fullstack developer based in Quebec City since 2012. I specialize in building web applications and have a strong passion for system design. I'm always eager to learn new technologies and improve how I build software.
 
-I'm passionate about system design and always eager to learn new technologies.
+With five years of experience in software development, I’ve designed, implemented, and tested solutions that bridge systems and improve interoperability. I value engineering practices like code reviews, unit and integration testing, and I work with DevOps and Agile principles to deliver business value through continuous integration and deployment.
 
-## Where to find me
-[![linkedin](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6)](https://www.linkedin.com/in/https://www.linkedin.com/in/gerardseka)
+I’ve contributed to the design and deployment of modern architectures (3-tier, pub/sub) in cloud environments with Kubernetes and APIs. My technical background includes REST, gRPC, SOAP, SQL, and NoSQL. I’m proficient in Go, Python, and JavaScript, and always ready to adapt to new tools and languages as needed.
+
+I’ve also taken on support and Scrum Master roles, helping teams stay focused and aligned. For me, being a team player means building lasting, positive impact wherever I work.
+
+ℹ️ **Note**: To learn more about my academic background, certifications, and professional experience, I invite you to visit section *Where to find me*, where you will find a link to my LinkedIn profile. To see my skills in action, feel free to explore the final section of this website, which showcases concrete examples of my work.
+
+
+## 🔍 Where to find me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardseka)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gePower)[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gerard-wilfried.seka.1@ens.etsmtl.ca)
 
 ## 🚀 Languages and Tools I Use
 
@@ -13,8 +20,40 @@ I'm passionate about system design and always eager to learn new technologies.
 
 ## 📊 Statistics
 
-**🚨🚨🚨 The following statistics don't include my contributions to the companies I've worked for. 🚨🚨🚨**
+⚠️**Warning**: The following statistics don't include my contributions to the companies I've worked for.
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gePower&)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=gePower&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔨 Projects
+
+### 2022 
+#### [Calmo – Health Record 🔗](https://calmo.gerardseka.com) 
+Web application for managing patient records with secure authentication, access control, and medical activity consultation.
+
+##### Use case
+The personas `macaron` and `stbakhita` were using the password `Passw0rd.`.
+
+Since macaron was appointed President of Cefran, his security clearance has been raised to a higher level than his doctor, stbakhita.
+As a result, stbakhita has no longer access to the information previously entered in macaron’s health record (see anonymized health record).
+
+
+
+### 2018 
+#### [Physics Challenge – REST API 🔗](https://physics-challenge.gerardseka.com/docs)
+Interactive REST API offering physics-based challenges. Successfully solving a problem returns a validation FLAG.
+
+
+
+### 2016 
+#### [Student Enterprise – Leadership & Community Impact 🔗](https://www.linkedin.com/posts/college-ahuntsic_bravo-%C3%A0-g%C3%A9rard-wilfried-seka-et-eug%C3%A9nie-branchard-activity-6144219928527466496-c9YW/)
+Student entrepreneurial project promoting hands-on learning through real community-based challenges.  
+🥇 Recipient of the *Lieutenant Governor’s Medal of Quebec*.
+
+---
+**Proverb**: When you don’t know where to go, look back at where you came from.
+
+> My elementary school
+
+[![20230404-123107.jpg](https://i.postimg.cc/yNFkj0Yd/20230404-123107.jpg)](https://postimg.cc/Lq896YPK)
